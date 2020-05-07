@@ -1,0 +1,34 @@
+#amount {
+    margin-left: 80px;
+    font-weight: bold;
+}
+#cure {
+    margin-left: 50px;
+    font-weight: bold;
+}
+#rency {
+    margin-left: 50px;
+    font-weight: bold;
+}
+#from {
+    margin-left: 35px;
+    padding-bottom: 3px;
+    padding-top: 2px;
+}
+#to {
+    margin-left: 72px;
+    padding-bottom: 3px;
+    padding-top: 2px;
+    margin-top: 10px;
+}
+#Result {
+    color: blue;
+}
+#button {
+    background-color: blueviolet;
+    color: white;
+    margin-left: 10px;
+    padding-left: 10px;
+    text-align: center;
+    padding-right: 10px;
+}
